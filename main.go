@@ -4,4 +4,5 @@ import "github.com/j3ssie/osmedeus/cmd"
 
 func main() {
 	cmd.Execute()
+	#Esto es un test
 }
